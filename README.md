@@ -2,6 +2,11 @@
 
 <p align="center">
     <br>
+  <a href="https://discord.com/users/679412624651452427" target="_blank">
+    <img width="45%" src="https://lanyard.cnrad.dev/api/679412624651452427?bg=151515&borderRadius=5px" alt="Discord Status"/>
+    </a>
+<p align="center">
+    <br>
 <div align="center">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xPhanda23&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
         <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=xPhanda23&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
