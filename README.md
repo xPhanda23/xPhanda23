@@ -7,7 +7,7 @@
 - 🧑‍💻 **Nome:** João Gabriel (ou xPhanda23)
 - 🌍 **Localização:** Brasil - Minas Gerais
 - 🎯 **Objetivo:** Criar soluções eficientes, escaláveis e com um toque de criatividade.
-- 🎓 **Formação:** Técnico em Informática (07/12 meses)
+- 🎓 **Formação:** Técnico em Informática (08/12 meses)
 
 > "Programar é fácil, difícil é nomear variáveis." – Sábio anônimo 🧙
 
